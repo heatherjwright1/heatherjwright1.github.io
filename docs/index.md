@@ -9,9 +9,9 @@ Currently working in sales for a proptech company. Alongside this, I’m studyin
 
 ### My projects:
 
-[Click here to view my Linkedin profile.](https://www.linkedin.com/in/heather-wright-852654127/)
-[Click here to view my blog.](https://naughty-newton-89a511.netlify.app)
-[Click here to view my GitHub.](https://github.com/heatherjwright1)
+- [Click here to view my Linkedin profile.](https://www.linkedin.com/in/heather-wright-852654127/)
+- [Click here to view my blog.](https://naughty-newton-89a511.netlify.app)
+- [Click here to view my GitHub.](https://github.com/heatherjwright1)
 
 
 ### Contact Information
