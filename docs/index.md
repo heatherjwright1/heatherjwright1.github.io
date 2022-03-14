@@ -2,16 +2,9 @@
 
 Currently working in sales for a proptech company. Alongside this, I’m studying a course named ‘Get hired as a Software Developer’ with the Coder’s Guild. I’m hoping to get a junior role as a Frontend Developer once I complete the course. I’m passionate about tech and I hope to be part of the growing number of women finding success in a male-dominated industry. 
 
-### Markdown
+### Me
 
-![Me]("me.jpeg")
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+<img src="me.jpeg" alt="Me">
 
 # Header 1
 ## Header 2
@@ -25,7 +18,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[My Linkedin:](https://www.linkedin.com/in/heather-wright-852654127/)
+
+![Image](src="me.jpeg")
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
