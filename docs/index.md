@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Heather Wright
 
-You can use the [editor on GitHub](https://github.com/heatherjwright1/heatherjwright1.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently working in sales for a proptech company. Alongside this, I’m studying a course named ‘Get hired as a Software Developer’ with the Coder’s Guild. I’m hoping to get a junior role as a Frontend Developer once I complete the course. I’m passionate about tech and I hope to be part of the growing number of women finding success in a male-dominated industry. 
 
 ### Markdown
 
