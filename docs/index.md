@@ -4,7 +4,9 @@ Currently working in sales for a proptech company. Alongside this, I’m studyin
 
 ### Markdown
 
-<img src="me.jpeg" alt="Me">
+![Me]("me.jpeg")
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
